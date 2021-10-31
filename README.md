@@ -45,3 +45,16 @@ ZEIT    (compressed)     : MrnBnjXTHDCwkeA4j23FiZNEDW6tFByKp2
 ZEIT    (uncompressed)   : MpcKGVSzH8azdA92r18AA1e7srqujq1AZ3
 Ethereum                 : 0xb8bfa8e67d734688cabd36c04139553a4bb13151
 ```
+
+https://mizogg.co.uk/boom/
+
+boom.py booms.py boomcpu.py
+One of the best and most versatile crypto scanner. Looks for 28 different addresses, HASH160 or PUBLICKEY from a txt file. Bitcoin&Litecoin Legacy compressed/uncompresses address and Segwit address P2SH.Bitcoin Gold\BitcoinCash\Zcash\Doge\DASH\ETH\ZEN\ZEIT\TENT. http://addresses.loyce.club/ for a list of bitcoin address. to make a database of Bitcoin
+
+Look for a list of Public Keys  or hash160 to make a database with and start looking for your crypto of choice.
+
+Get any rich list Lictoin Dogecoin Eth what ever coin you want to look for….Put them all in one text file
+
+run boom.py it will check your file if found a match will save the details to a file you will have to figure out how to import the wallet what coin was found.
+
+![image](https://user-images.githubusercontent.com/88630056/139589135-c1f74df5-d3a6-40e9-8978-10db9c85e538.png)
